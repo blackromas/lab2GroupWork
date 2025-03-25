@@ -1,5 +1,1 @@
-
-<<<<<<< HEAD
-=======
-"Team lead: Moses Bwalya" 
->>>>>>> feature-A
+Team lead: Marion Mwape

@@ -1,1 +1,1 @@
-Team lead: Esnart P. Mache  Team: Katrina Milumbe Haansende
+Team lead: Esnart P. Mache
